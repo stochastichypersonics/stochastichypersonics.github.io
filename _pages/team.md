@@ -74,7 +74,7 @@ permalink: /team/
 
 ## Postoctoral researchers
 {% assign number_printed = 0 %}
-{% for member in site.data.PI %}
+{% for member in site.data.postdocs %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -136,7 +136,7 @@ permalink: /team/
 
 ## Graduate students
 {% assign number_printed = 0 %}
-{% for member in site.data.PI %}
+{% for member in site.data.students %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -198,7 +198,7 @@ permalink: /team/
 
 ## Undergraduate students
 {% assign number_printed = 0 %}
-{% for member in site.data.PI %}
+{% for member in site.data.students %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
