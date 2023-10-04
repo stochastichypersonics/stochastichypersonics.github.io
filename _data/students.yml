@@ -9,10 +9,24 @@
 #  education4:
 
 - name: Vincenzo Romano 
-  photo: Gopher.jpg
-  info: Visiting scholar (collaborative PhD student with VKI and ULB, Belgium)
-  email: 
-  number_educ: 0
-  education1:
+photo: Gopher.jpg
+info: Visiting scholar (collaborative PhD student with VKI and ULB, Belgium)
+email: 
+number_educ: 0
+education1:
+
+- name: Goldy Gopher 
+photo: Gopher.jpg
+info: This could be you!
+email: 
+number_educ: 0
+education1:
+
+- name: Goldy Gopher
+photo: Gopher.jpg
+info: This could be you!
+email: 
+number_educ: 0
+education1:
 
 
