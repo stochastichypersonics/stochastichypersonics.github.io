@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Stochastic Hypersonics - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "Stochastic Hypersonics at AEM UMN"
 sitemap: false
 permalink: /
 ---
