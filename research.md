@@ -8,7 +8,19 @@ permalink: /research/
 
 # Research
 
-Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
+Our research uses stochastic methods 
+
+## Mathematical formalisms and stochastic methods
+
+## High-temperature gas-surface interactions
+
+## Gas-phase chemical kinetics
+
+## Free-stream characterization
+
+## Design of experiments for relevant hypersonic conditions
+
+## Hypersonic boundary layer transition
 
 
-<span style="background-color: yellow;">This text has a yellow background.</span>
+<!-- <span style="background-color: yellow;">This text has a yellow background.</span> -->
