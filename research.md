@@ -10,7 +10,11 @@ permalink: /research/
 
 Our research uses stochastic methods as the basis for advancing our understanding of hypersonic flows.
 
-**Mathematical formalisms and stochastic methods**
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/overview.png" width="95%">
+</figure>
+
+**Stochastic modeling**
 
 **High-temperature gas-surface interactions**
 
