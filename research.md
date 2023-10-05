@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 
-Our research uses stochastic methods as the basis for advancing our understanding of hypersonic flows.
+Our research uses stochastic methods as the basis for advancing our understanding of hypersonic flows.  We develop stochastic modeling techniques applied to a broad range of hypersonic flow problems. Our research truly lives at the boundaries between applied mathematics and Aerospace engineering.
 
 <figure style="text-align: center;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/respic/overview.png" width="60%">
