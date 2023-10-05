@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-The **Stochastic Hypersonics Research Group**
+Our research 
 
 We are a dynamic research group, at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl) and soon at [LMU](https://www.physik.lmu.de/en/index.html). Our aim is to explore and understand quantum materials, including strange metals, high-temperature superconductors, and quantum critical electron matter. To this end, we develop new quantum sensing and quantum imaging instrumentation to get the key quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the scientific questions we deem most important (see [Research](research)). 
 
