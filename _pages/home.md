@@ -14,7 +14,7 @@ Practically speaking, our research is focused on the development and application
 <img src="{{ site.url }}{{ site.baseurl }}/images/highlight_image.jpeg" width="95%">
 </figure>
 
-We are very much looking forward to being part of the [Department of Aerospace Engineering and Mechanics](https://cse.umn.edu/aem) starting next September.
+We are very much looking forward to being part of the [Department of Aerospace Engineering and Mechanics](https://cse.umn.edu/aem) at the University of Minnesota  starting next September.
 
 **We are  looking for passionate new graduate students and a postdoc to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
