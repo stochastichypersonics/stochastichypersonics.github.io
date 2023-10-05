@@ -10,17 +10,17 @@ permalink: /research/
 
 Our research uses stochastic methods as the basis for advancing our understanding of hypersonic flows.
 
-## Mathematical formalisms and stochastic methods##
+**Mathematical formalisms and stochastic methods**
 
-## High-temperature gas-surface interactions
+**High-temperature gas-surface interactions**
 
-## Gas-phase chemical kinetics
+**Gas-phase chemical kinetics**
 
-## Free-stream characterization
+**Free-stream characterization**
 
-## Design of experiments for relevant hypersonic conditions
+**Design of experiments for relevant hypersonic conditions**
 
-## Hypersonic boundary layer transition
+**Hypersonic boundary layer transition**
 
 
 <!-- <span style="background-color: yellow;">This text has a yellow background.</span> -->
