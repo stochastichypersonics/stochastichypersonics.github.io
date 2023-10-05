@@ -11,7 +11,7 @@ permalink: /research/
 Our research uses stochastic methods as the basis for advancing our understanding of hypersonic flows.
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/overview.png" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/overview.png" width="60%">
 </figure>
 
 **Stochastic modeling**
