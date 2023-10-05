@@ -6,21 +6,15 @@ sitemap: false
 permalink: /
 ---
 
-Our research successfully blends stochastic methods within hypersonic flow research to advance the state-of-the-art models, simulations and experiments. The work carried out at the Stochastic Hypersonics Lab is truly interdisciplinary at the interface of applied mathematics and Aerospace engineering.
+Our research successfully blends stochastic methods within hypersonic flow research to advance the state-of-the-art models, simulations and experiments. The work carried out at the Stochastic Hypersonics Lab is truly interdisciplinary at the interface of applied mathematics and Aerospace engineering. The main objective of the lab is to advance our understanding of hypersonic flows, and this can only be done by including uncertainty as a modeled component both in our computational tools and experimental methods.
+
+Practically speaking, our research is focused on the development and application of stochastic methods belonging to the broad areas of sensitivity analysis, surrogate modeling, forward uncertainty propagation, Bayesian inverse problems, and optimization under uncertainty all of them applied to a broad range of problems in hypersonics. We investigate models and experiments for high-temperature gas-surface interaction, gas-phase chemical kinetics, boundary layer transition, aerodynamic performance, etc.
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/highlight_image.jpeg" width="95%">
 </figure>
 
-
-We are very much looking forward to being part of [LMU physics](https://www.physik.lmu.de/en/index.html)! We will build up our instruments right in the center of the city, in the “Sommerfeldkeller”, where Sommerfeld himself worked. We will exchange ideas with world class groups working in quantum physics, cold-atom many-body physics, and 2d quantum materials.
-
-Our move to LMU will likely start around Summer 2024, depending on the state of renovations. 
-
-Currently, we are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). 
-
-We are grateful for funding from Leiden University, [LMU ](https://www.lmu.de) [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting and consolidator grants](https://erc.europa.eu/funding/starting-grants).
-
+We are very much looking forward to being part of the [Department of Aerospace Engineering and Mechanics](https://cse.umn.edu/aem) starting next September.
 
 **We are  looking for passionate new graduate students and a postdoc to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
