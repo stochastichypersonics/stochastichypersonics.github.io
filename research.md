@@ -21,7 +21,7 @@ Our research uses stochastic methods as the basis for advancing our understandin
 <img src="{{ site.url }}{{ site.baseurl }}/images/respic/overview.png" width="60%">
 </figure>
 
-Below you can find a list of the ongoing and past research.
+Below you can find a list of the ongoing and past research. **Come join our team and help us advance the fundamental understanding of hypersonic flows** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
 **Stochastic modeling**
 
