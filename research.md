@@ -33,7 +33,6 @@ Hypersonic flow modeling and experiments are complex. While models require of ve
 ![Image]({{ site.url }}{{ site.baseurl }}/images/respic/likelihood_tests.png){:width="100%"}
 </div>
 
-<!-- | Hypersonic flow modeling and experiments are complex. While models require of very different constitutive laws for the accurate simulation of both in-flight and on-ground conditions, experiments cannot measure explicitly all that would be desired for reliable validation. Complex modeling choices together with complex experimental set-ups renders the use of off-the-shelves stochastic methods not adequate for hypersonic problems. Our group works on developing stochastic models tailored to hypersonics to produce reliable uncertainty estimations, model calibrations and validations.  | ![Image]({{ site.url }}{{ site.baseurl }}/images/respic/likelihood_tests.png){:width="150%"}      | -->
 
 <span style="font-size: larger;"><strong>High-temperature gas-surface interactions</strong></span>
 
@@ -45,27 +44,25 @@ Characterizing ablation and catalysis phenomena for different atmospheric and ma
 ![Image]({{ site.url }}{{ site.baseurl }}/images/respic/GSI_pic.png){:width="100%"}
 </div>
 
-<!-- <span style="font-size: larger;"><strong>Gas-phase chemical kinetics</strong></span> -->
+<span style="font-size: larger;"><strong>Gas-phase chemical kinetics</strong></span>
 
-<!-- <div class="column" markdown="1" style="text-align: justify;">
+<div class="column" markdown="1" style="text-align: justify;">
 In this work, we answer the question: "can we learn anything from intrusive measurements in a plasma wind tunnel about gas-phase chemical reactions?" This question has long been dominated in the hypersonics community by almost exclusively looking at shock tube experiments, and the study of radiative signatures of selected excited species in the post-shock region created in such facilities. Forward rate of reactions can very effectively be obtained through the use of those data. Boundary layer modeling requires accurate modeling of backward (e.g. recombination) rates which are generally derived by assuming the principle of detailed balance to be true, possibly giving a biased view on recombination kinetics from shock tube data. In this work, we flip the switch and use experimental data sensitive to boundary layer quantities to obtain calibrated forward rates that, while still relying on the same principle of detailed balance, produce a consistent estimation of backward rates as they are now the drivers of the inference performed with this new set of experimental data. Apart from that, we are also able to prescribe interesting follow-up works that can help in obtaining a rigorous validation of gas-phase chemical models in hypersonic flows. 
-</div> -->
-
-<!-- <div class="column" markdown="1">
-![Image]({{ site.url }}{{ site.baseurl }}/images/highlight_image.jpeg){:width="80%"}
-</div> -->
-
-<span style="font-size: larger;"><strong>Free-stream characterization</strong></span>
+</div>
 
 <div class="column" markdown="1">
-![Image]({{ site.url }}{{ site.baseurl }}/images/respic/sketch_freestream.png){:width="100%"}
+![Image]({{ site.url }}{{ site.baseurl }}/images/highlight_image.jpeg){:width="80%"}
 </div>
+
+<span style="font-size: larger;"><strong>Free-stream characterization</strong></span>
 
 <div class="column" markdown="1" style="text-align: justify;">
 we are focused on improving the stochastic estimation of the free stream conditions in a plasma wind tunnel when chemical models, measured boundary conditions and surface response of intrusive probes are uncertain [7, 8]. This can have an impact in all future validation tasks that require this information for the computational models to produce solutions which are currently severely biased and remain one of the biggest roadblocks for these problems. 
 </div>
 
-<!-- | Secondly, we are focused on improving the stochastic estimation of the free stream conditions in a plasma wind tunnel when chemical models, measured boundary conditions and surface response of intrusive probes are uncertain [7, 8]. This can have an impact in all future validation tasks that require this information for the computational models to produce solutions which are currently severely biased and remain one of the biggest roadblocks for these problems.  | ![Image]({{ site.url }}{{ site.baseurl }}/images/respic/sketch_freestream.png){:width="150%"} | -->
+<div class="column" markdown="1">
+![Image]({{ site.url }}{{ site.baseurl }}/images/respic/sketch_freestream.png){:width="100%"}
+</div>
 
 <span style="font-size: larger;"><strong>Design of experiments for relevant hypersonic conditions</strong></span>
 
