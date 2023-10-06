@@ -12,7 +12,7 @@ permalink: /research/
 
 *Every time a scientific paper presents a bit of data, it's accompanied by an error bar – a quiet but insistent reminder that no knowledge is complete or perfect. It's a calibration of how much we trust what we think we know. If the error bars are small, the accuracy of our empirical knowledge is high; if the error bars are large, then so is the uncertainty in our knowledge* - Carl Sagan
 
-*The greatest enemy of knowledge is not ignorance; it is the illusion of knowledge."* - Stephen Hawking
+*The greatest enemy of knowledge is not ignorance; it is the illusion of knowledge.* - Stephen Hawking
 
 Our research uses stochastic methods as the basis for advancing our understanding of hypersonic flows. We are interested in developing stochastic modeling techniques to be applied to a broad range of hypersonic flow problems such as gas-phase chemistry, gas-surface interactions, shock layer radiation, boundary layer transition, etc. Our research truly lives at the boundaries between applied mathematics and Aerospace engineering. We are particularly interested in three aspects of uncertainty modeling: 1) understanding of complex models and their high-order interactions by functional decompositions and sensitivity analyses; 2) using this information to design more informative experiments for model calibration and validation, leading to better utilization of experimental resources; 3) validation of physico-chemical and fluid dynamics models.
 
@@ -23,7 +23,7 @@ Our research uses stochastic methods as the basis for advancing our understandin
 
 Below you can find a list of the ongoing and past research. **Come join our team and help us advance the fundamental understanding of hypersonic flows** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
-**Stochastic modeling**
+<span style="font-size: larger;"><strong>Stochastic modeling</strong></span>
 
 Hypersonic flow modeling and experiments are complex. Hypersonic flow models require of different very well-understood constitutive laws for the accurate simulation of both in-flight and on-ground conditions. Experimental
 
