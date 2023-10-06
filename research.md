@@ -37,6 +37,8 @@ Below you can find a list of the ongoing and past research. **Come join our team
 
 <span style="font-size: larger;"><strong>Free-stream characterization</strong></span>
 
+| Secondly, we are focused on improving the stochastic estimation of the free stream conditions in a plasma wind tunnel when chemical models, measured boundary conditions and surface response of intrusive probes are uncertain [7, 8]. This can have an impact in all future validation tasks that require this information for the computational models to produce solutions which are currently severely biased and remain one of the biggest roadblocks for these problems.  | ![Image]({{ site.url }}{{ site.baseurl }}/images/highlight_image.jpeg){:width="150%"} |
+
 <span style="font-size: larger;"><strong>Design of experiments for relevant hypersonic conditions</strong></span>
 
 <span style="font-size: larger;"><strong>Hypersonic boundary layer transition</strong></span>
