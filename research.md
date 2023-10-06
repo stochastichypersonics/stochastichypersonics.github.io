@@ -29,7 +29,7 @@ Below you can find a list of the ongoing and past research. **Come join our team
 
 <span style="font-size: larger;"><strong>High-temperature gas-surface interactions</strong></span>
 
-![Image]({{ site.url }}{{ site.baseurl }}/images/respic/GSI_pic.png){:width="150%"} | Hypersonic flow modeling and experiments are complex. While models require of very different constitutive laws for the accurate simulation of both in-flight and on-ground conditions, experiments cannot measure explicitly all that would be desired for reliable validation. Complex modeling choices together with complex experimental set-ups renders the use of off-the-shelves stochastic methods not adequate for hypersonic problems. Our group works on developing stochastic models tailored to hypersonics to produce reliable uncertainty estimations, model calibrations and validations.   |
+| Characterizing ablation and catalysis phenomena for different atmospheric and material compositions is quite challenging. It is important to understand the coupling mechanisms between material surface properties and the resulting ablation and/or recombination rates which in turn are coupled to flowfield computations. In the present study, we explore the possibility of exploiting different sources of experimental data for the purpose of statistically inferring both macroscopic and detailed models for nitridation reaction efficiencies. It is the first time in the literature that experimental data from two very different facilities (and continents!) are used jointly to learn surface chemistry models for nitrogen ablation.  | ![Image]({{ site.url }}{{ site.baseurl }}/images/respic/GSI_pic.png){:width="150%"} 
 
 <span style="font-size: larger;"><strong>Gas-phase chemical kinetics</strong></span>
 
