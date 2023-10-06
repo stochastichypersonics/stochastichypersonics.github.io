@@ -25,18 +25,11 @@ Below you can find a list of the ongoing and past research. **Come join our team
 
 <span style="font-size: larger;"><strong>Stochastic modeling</strong></span>
 
-<div style="display: flex; justify-content: space-between;">
-    <div style="flex: 1;">
-        Hypersonic flow modeling and experiments are complex. Hypersonic flow models require of different very well-understood constitutive laws for the accurate simulation of both in-flight and on-ground conditions. Experimental
-    </div>
-    <div style="flex: 1;">
-        ![Image](image-url-here)
-    </div>
-</div>
+Hypersonic flow modeling and experiments are complex. While models require of very different constitutive laws for the accurate simulation of both in-flight and on-ground conditions, experiments cannot measure explicitly all that would be desired for reliable validation. Complex modeling choices together with complex experimental set-ups renders the use of off-the-shelves stochastic methods not adequate for hypersonic problems. Our group works on developing stochastic models tailored to hypersonics to produce reliable uncertainty estimations, model calibrations and validations.
 
-<!-- <figure style="text-align: right;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/overview.png" width="60%">
-</figure> -->
+<figure style="text-align: right;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/likelihood.png" width="40%">
+</figure>
 
 <span style="font-size: larger;"><strong>High-temperature gas-surface interactions</strong></span>
 
