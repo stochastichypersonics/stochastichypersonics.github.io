@@ -30,7 +30,7 @@ Hypersonic flow modeling and experiments are complex. While models require of ve
 </div>
 
 <div class="column" markdown="1">
-![Image]({{ site.url }}{{ site.baseurl }}/images/respic/likelihood_tests.png)
+![Image]({{ site.url }}{{ site.baseurl }}/images/respic/likelihood_tests.png){:width="100%"}
 </div>
 
 <!-- | Hypersonic flow modeling and experiments are complex. While models require of very different constitutive laws for the accurate simulation of both in-flight and on-ground conditions, experiments cannot measure explicitly all that would be desired for reliable validation. Complex modeling choices together with complex experimental set-ups renders the use of off-the-shelves stochastic methods not adequate for hypersonic problems. Our group works on developing stochastic models tailored to hypersonics to produce reliable uncertainty estimations, model calibrations and validations.  | ![Image]({{ site.url }}{{ site.baseurl }}/images/respic/likelihood_tests.png){:width="150%"}      | -->
