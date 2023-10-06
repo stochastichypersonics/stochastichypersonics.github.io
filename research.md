@@ -30,9 +30,7 @@ Below you can find a list of the ongoing and past research. **Come join our team
         Hypersonic flow modeling and experiments are complex. Hypersonic flow models require of different very well-understood constitutive laws for the accurate simulation of both in-flight and on-ground conditions. Experimental
     </div>
     <div style="flex: 1;">
-        <figure style="text-align: right;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/overview.png" width="60%">
-</figure><!-- ![Image](image-url-here) -->
+        ![Image](image-url-here)
     </div>
 </div>
 
@@ -40,15 +38,15 @@ Below you can find a list of the ongoing and past research. **Come join our team
 <img src="{{ site.url }}{{ site.baseurl }}/images/respic/overview.png" width="60%">
 </figure> -->
 
-**High-temperature gas-surface interactions**
+<span style="font-size: larger;"><strong>High-temperature gas-surface interactions</strong></span>
 
-**Gas-phase chemical kinetics**
+<span style="font-size: larger;"><strong>Gas-phase chemical kinetics</strong></span>
 
-**Free-stream characterization**
+<span style="font-size: larger;"><strong>Free-stream characterization</strong></span>
 
-**Design of experiments for relevant hypersonic conditions**
+<span style="font-size: larger;"><strong>Design of experiments for relevant hypersonic conditions</strong></span>
 
-**Hypersonic boundary layer transition**
+<span style="font-size: larger;"><strong>Hypersonic boundary layer transition</strong></span>
 
 
 <!-- <span style="background-color: yellow;">This text has a yellow background.</span> -->
