@@ -31,14 +31,11 @@ Hypersonic flow modeling and experiments are complex. While models require of ve
 <img src="{{ site.url }}{{ site.baseurl }}/images/respic/likelihood.png" width="40%">
 </figure>
 
-<div style="display: flex; align-items: center;">
-    <div style="flex: 1;">
-        This is some text on the left.
-    </div>
-    <div style="flex: 1;">
-        ![Image]({{ site.url }}{{ site.baseurl }}/images/respic/likelihood.png)
-    </div>
-</div>
+| Text                | Image                         |
+| ------------------- | ------------------------------ |
+| This is some text.  | ![Image]({{ site.url }}{{ site.baseurl }}/images/respic/likelihood.png)      |
+
+
 
 <span style="font-size: larger;"><strong>High-temperature gas-surface interactions</strong></span>
 
