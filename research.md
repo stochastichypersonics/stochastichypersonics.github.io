@@ -93,7 +93,7 @@ Hypersonic transition is a multiphysics phenomenon that impacts wall heat transf
 </div>
 
 <div class="column" markdown="1">
-![Image]({{ site.url }}{{ site.baseurl }}/images/respic/transition.pdf){:width="100%"}
+![Image]({{ site.url }}{{ site.baseurl }}/images/respic/transition.png){:width="100%"}
 </div>
 
 
