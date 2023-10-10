@@ -54,7 +54,7 @@ In this work, we use intrusive measurements in a plasma wind tunnel to learn abo
 </div>
 
 <div class="column" markdown="1" style="margin-bottom: 50px;">
-![Image]({{ site.url }}{{ site.baseurl }}/images/highlight_image.jpeg){:width="100%"}
+![Image]({{ site.url }}{{ site.baseurl }}/images/respic/highlight_image.png){:width="100%"}
 </div>
 
 <span style="font-size: larger;"><strong>Free-stream characterization</strong></span>
