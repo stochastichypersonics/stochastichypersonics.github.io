@@ -72,7 +72,7 @@ In this work, we use intrusive measurements in a plasma wind tunnel to learn abo
 Currently, the characterization of free-stream conditions in different hypersonic facilities remains very poor. Direct measurements are significantly affected by uncertaintes that are not characterized, and indirect measurements have to consider a large number of unknowns to produce an estimation. The reliable characterization of free-stream conditions in on-ground facilities remains a challenge and represents one of the biggest roadblocks for validation tasks in hypersonic flows. In our group, we have started tackling this problem in plasma wind tunnels. The first effort was focused on building a low-dimensional stochastic framework. A later work included uncertainties stemming from chemical models, measured boundary conditions and surface response of intrusive probes when the free-stream is to be determined from indirect measurements. Our latest effort focused on introducing and characterizing additional uncertainties stemming from the plasma wind tunnel torch through the use of Gaussian Processes and coupling of different computational solvers.
 </div>
 
-<div class="column" markdown="1" style="margin-bottom: 120px;">
+<div class="column" markdown="1" style="margin-bottom: 120px; text-align: center;">
 ![Image]({{ site.url }}{{ site.baseurl }}/images/respic/freestream_plots.png){:width="100%"}
 </div>
 
