@@ -46,7 +46,7 @@ Characterizing ablation and catalysis phenomena for different atmospheric and ma
 
 <span style="font-size: larger;"><strong>Gas-phase chemical kinetics</strong></span>
 
-<div class="column" markdown="1" style="text-align: justify; margin-bottom: 20px;">
+<div class="column" markdown="1" style="text-align: justify;">
 In this work, we use intrusive measurements in a plasma wind tunnel to learn about gas-phase chemical reactions. Boundary layer modeling requires accurate modeling of backward (e.g. recombination) rates which are generally derived by assuming the principle of detailed balance to be true, possibly giving a biased view on recombination kinetics from shock tube data. In this work, we flip the switch and use experimental data sensitive to boundary layer quantities to obtain calibrated forward rates that, while still relying on the same principle of detailed balance, produce a consistent estimation of backward rates as they are now the drivers of the inference performed with this new set of experimental data. We are also able to prescribe interesting follow-up works that can help in obtaining a rigorous validation of gas-phase chemical models in hypersonic flows. 
 
 
