@@ -85,6 +85,20 @@ firstp {
 	width: 50%;   /* Adjust the width as needed (e.g., 50% for two equal-width columns) */
 }
 
+.container {
+    overflow: hidden; /* Clear the floats */
+}
+
+.left-column {
+    float: left;
+    width: 50%; /* Adjust the width as needed */
+}
+
+.right-column {
+    float: right;
+    width: 50%; /* Adjust the width as needed */
+}
+
 
 /* Carusel */
 
