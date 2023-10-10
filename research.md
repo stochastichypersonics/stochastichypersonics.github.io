@@ -89,7 +89,7 @@ Hypersonic flow modeling and experiments are complex. While models require of ve
 <span style="font-size: larger;"><strong>Hypersonic boundary layer transition</strong></span>
 
 <div class="column" markdown="1" style="text-align: justify;">
-Hypersonic transition is a multiphysics phenomenon that impacts wall heat transfer and skin friction, increasing the drag of the vehicle
+Hypersonic transition is a multiphysics phenomenon that impacts wall heat transfer and skin friction, increasing the drag of the vehicle. its prediction is a challenging phenomenon dominated by intrinsic uncertainty due to its multiphysics and chaotic nature which complicate the appropriate definition of the boundary layer. Uncertainty in transition location leads to diminishing vehicle performance, primarily because of the additional weight of thermal protection. High-temperature effects, body geometry and surface roughness, and overall environment are the general factors that have a great impact on transition location. The current research project is broadly focused on developing a stochastic framework that allows us to improve our understanding of transition predictions in hypersonic boundary layers. The ultimate goal is to understand how wind tunnel tests can inform and improve in-flight probabilistic transition predictions.
 </div>
 
 <div class="column" markdown="1">
