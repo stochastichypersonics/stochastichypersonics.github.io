@@ -53,7 +53,7 @@ In this work, we use intrusive measurements in a plasma wind tunnel to learn abo
 <!-- In this work, we answer the question: "can we learn anything from intrusive measurements in a plasma wind tunnel about gas-phase chemical reactions?" This question has long been dominated in the hypersonics community by almost exclusively looking at shock tube experiments, and the study of radiative signatures of selected excited species in the post-shock region created in such facilities. Forward rate of reactions can very effectively be obtained through the use of those data. Boundary layer modeling requires accurate modeling of backward (e.g. recombination) rates which are generally derived by assuming the principle of detailed balance to be true, possibly giving a biased view on recombination kinetics from shock tube data. In this work, we flip the switch and use experimental data sensitive to boundary layer quantities to obtain calibrated forward rates that, while still relying on the same principle of detailed balance, produce a consistent estimation of backward rates as they are now the drivers of the inference performed with this new set of experimental data. Apart from that, we are also able to prescribe interesting follow-up works that can help in obtaining a rigorous validation of gas-phase chemical models in hypersonic flows.  -->
 </div>
 
-<div class="column" markdown="1" style="margin-bottom: 40px;">
+<div class="column" markdown="1" style="margin-bottom: 50px;">
 ![Image]({{ site.url }}{{ site.baseurl }}/images/highlight_image.jpeg){:width="80%"}
 </div>
 
