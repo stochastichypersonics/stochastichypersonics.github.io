@@ -30,7 +30,7 @@ Hypersonic flow modeling and experiments are complex. While models require of ve
 </div>
 
 <div class="column" markdown="1" style="margin-bottom: 20px;">
-![Image]({{ site.url }}{{ site.baseurl }}/images/respic/likelihood_tests.png){:width="100%"}
+![Image]({{ site.url }}{{ site.baseurl }}/images/respic/likelihood.png){:width="100%"}
 </div>
 
 
@@ -73,7 +73,7 @@ we are focused on improving the stochastic estimation of the free stream conditi
 </div>
 
 <div class="column" markdown="1" style="margin-bottom: 20px;">
-![Image]({{ site.url }}{{ site.baseurl }}/images/respic/sketch_freestream.png){:width="100%"}
+![Image]({{ site.url }}{{ site.baseurl }}/images/respic/freestream_plots.png){:width="100%"}
 </div>
 
 <span style="font-size: larger;"><strong>Design of experiments for relevant hypersonic conditions</strong></span>
