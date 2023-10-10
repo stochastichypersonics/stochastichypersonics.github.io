@@ -86,17 +86,16 @@ firstp {
 }
 
 .container {
-    overflow: hidden; /* Clear the floats */
+    display: flex;
+    justify-content: space-between;
 }
 
 .left-column {
-    float: left;
-    width: 50%; /* Adjust the width as needed */
+    flex-basis: 50%; /* Adjust the width as needed */
 }
 
 .right-column {
-    float: right;
-    width: 50%; /* Adjust the width as needed */
+    flex-basis: 50%; /* Adjust the width as needed */
 }
 
 
