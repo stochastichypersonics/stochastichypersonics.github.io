@@ -84,7 +84,7 @@ Hypersonic flow modeling and experiments are complex. While models require of ve
 </div>
 
 <div class="column" markdown="1">
-![Image]({{ site.url }}{{ site.baseurl }}/images/respic/likelihood_tests.png){:width="100%"}
+![Image]({{ site.url }}{{ site.baseurl }}/images/respic/transition.pdf){:width="100%"}
 </div>
 
 
