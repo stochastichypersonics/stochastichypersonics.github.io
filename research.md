@@ -30,7 +30,7 @@ Hypersonic flow modeling and experiments are complex. While models require of ve
 </div>
 
 <div class="column" markdown="1" style="margin-bottom: 20px;">
-![Image]({{ site.url }}{{ site.baseurl }}/images/respic/likelihood.png){:width="80%"}
+![Image]({{ site.url }}{{ site.baseurl }}/images/respic/likelihood.png){:width="60%"}
 </div>
 
 
