@@ -47,10 +47,10 @@ Characterizing ablation and catalysis phenomena for different atmospheric and ma
 <span style="font-size: larger;"><strong>Gas-phase chemical kinetics</strong></span>
 
 <div class="container">
-    <div class="left-column" markdown="1" style="text-align: justify;">
+    <div class="left-column" style="text-align: justify;">
     In this work, we use intrusive measurements in a plasma wind tunnel to learn about gas-phase chemical reactions. Boundary layer modeling requires accurate modeling of backward (e.g. recombination) rates which are generally derived by assuming the principle of detailed balance to be true, possibly giving a biased view on recombination kinetics from shock tube data. In this work, we flip the switch and use experimental data sensitive to boundary layer quantities to obtain calibrated forward rates that, while still relying on the same principle of detailed balance, produce a consistent estimation of backward rates as they are now the drivers of the inference performed with this new set of experimental data. We are also able to prescribe interesting follow-up works that can help in obtaining a rigorous validation of gas-phase chemical models in hypersonic flows. 
     </div>
-    <div class="right-column" markdown="1" style="margin-bottom: 50px;">
+    <div class="right-column" style="margin-bottom: 50px;">
     ![Image]({{ site.url }}{{ site.baseurl }}/images/respic/highlight_image.png){:width="80%"}
     </div>
 </div>
@@ -89,7 +89,7 @@ Hypersonic flow modeling and experiments are complex. While models require of ve
 <span style="font-size: larger;"><strong>Hypersonic boundary layer transition</strong></span>
 
 <div class="column" markdown="1" style="text-align: justify;">
-Hypersonic flow modeling and experiments are complex. While models require of very different constitutive laws for the accurate simulation of both in-flight and on-ground conditions, experiments cannot measure explicitly all that would be desired for reliable validation. Complex modeling choices together with complex experimental set-ups renders the use of off-the-shelves stochastic methods not adequate for hypersonic problems. Our group works on developing stochastic models tailored to hypersonics to produce reliable uncertainty estimations, model calibrations and validations.
+Hypersonic transition is a multiphysics phenomenon that impacts wall heat transfer and skin friction, increasing the drag of the vehicle
 </div>
 
 <div class="column" markdown="1">
