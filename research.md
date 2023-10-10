@@ -54,7 +54,7 @@ In this work, we use intrusive measurements in a plasma wind tunnel to learn abo
 </div>
 
 <div class="column" markdown="1" style="margin-bottom: 50px;">
-![Image]({{ site.url }}{{ site.baseurl }}/images/highlight_image.jpeg){:width="80%"}
+![Image]({{ site.url }}{{ site.baseurl }}/images/highlight_image.jpeg){:width="100%"}
 </div>
 
 <span style="font-size: larger;"><strong>Free-stream characterization</strong></span>
@@ -74,7 +74,7 @@ Hypersonic flow modeling and experiments are complex. While models require of ve
 </div>
 
 <div class="column" markdown="1" style="margin-bottom: 20px;">
-![Image]({{ site.url }}{{ site.baseurl }}/images/respic/likelihood_tests.png){:width="100%"}
+![Image]({{ site.url }}{{ site.baseurl }}/images/respic/flight_extrap.png){:width="100%"}
 </div>
 
 <span style="font-size: larger;"><strong>Hypersonic boundary layer transition</strong></span>
