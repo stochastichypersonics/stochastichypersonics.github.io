@@ -41,7 +41,7 @@ Characterizing ablation and catalysis phenomena for different atmospheric and ma
 </div>
 
 <div class="column" markdown="1" style="margin-bottom: 20px;">
-![Image]({{ site.url }}{{ site.baseurl }}/images/respic/GSI_pic.png){:width="100%"}
+![Image]({{ site.url }}{{ site.baseurl }}/images/respic/cleaner_GSI_pic.png){:width="100%"}
 </div>
 
 <span style="font-size: larger;"><strong>Gas-phase chemical kinetics</strong></span>
