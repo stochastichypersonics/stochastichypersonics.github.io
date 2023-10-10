@@ -36,7 +36,7 @@ Hypersonic flow modeling and experiments are complex. While models require of ve
 
 <span style="font-size: larger;"><strong>High-temperature gas-surface interactions</strong></span>
 
-<div class="column" markdown="1" style="text-align: justify; margin-right: 10px;">
+<div class="column" markdown="1" style="text-align: justify;">
 Characterizing ablation and catalysis phenomena for different atmospheric and material compositions is quite challenging. It is important to understand the coupling mechanisms between material surface properties and the resulting ablation and/or recombination rates which in turn are coupled to flowfield computations. In the present study, we explore the possibility of exploiting different sources of experimental data for the purpose of statistically inferring both macroscopic and detailed models for nitridation reaction efficiencies. It is the first time in the literature that experimental data from two very different facilities (and continents!) are used jointly to learn surface chemistry models for nitrogen ablation. 
 </div>
 
