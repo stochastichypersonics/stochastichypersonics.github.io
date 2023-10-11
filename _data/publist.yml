@@ -18,7 +18,7 @@
 
 - title: "Stochastic calibration of a carbon nitridation model from plasma wind tunnel experiments using a Bayesian formulation"
   image: Gnit_locations_3000.png
-  description: The literature for nitridation models shows great scattering and sensitivity to particular ad-hoc techniques adopted by the different groups. No account of uncertainties or confidence in the derived models is found. We propose a Bayesian formulation to calibrate nitrogen ablation models for carbon preforms using different measurements of the same flowfield jointly, which has not been attempted before. The benefits are twofold\: we gauge the different levels of information that measurements of recession rates and ablation products densities bring as well as cross-validate experimental data to rule out bad measurements which otherwise we have no other way of identifying, affecting heavily our results.
+  description: The literature for nitridation models shows great scattering and sensitivity to particular ad-hoc techniques adopted by the different groups. No account of uncertainties or confidence in the derived models is found. We propose a Bayesian formulation to calibrate nitrogen ablation models for carbon preforms using different measurements of the same flowfield jointly, which has not been attempted before. The benefits are twofold; we gauge the different levels of information that measurements of recession rates and ablation products densities bring as well as cross-validate experimental data to rule out bad measurements which otherwise we have no other way of identifying, affecting heavily our results.
   authors: A. del Val, O. P. Le Maître, P. M. Congedo and T. E. Magin.
   link:
     url: https://www.sciencedirect.com/science/article/abs/pii/S0008622322006030
