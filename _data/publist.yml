@@ -28,8 +28,17 @@
 - title: "Quantification of model-form uncertainties affecting the calibration of a carbon nitridation model by means of Bayesian Model Averaging"
   image: Arrhenius_scheme.png
   description: When everything is affected by uncertainties (e.g. observations, model predictions and model selection) how do we compare models among each other on the basis of the same experimental observations, particularly when they have di↵erent complexities? If different models are to be entertained and cannot be discarded, how can we incorporate the uncertainty these different choices bring to our predictions? We devised Bayesian Model Averaging frameworks to answer these questions and provide a suitable way for the hypersonics community to do so. This is the first time that robust evidence-based technniques are used to assess models with data, informing future research directions.
-  authors: A. del Val, T. E. Magin, P. M. Congedo
+  authors: A. del Val, T. E. Magin and P. M. Congedo
   link:
     url: https://www.sciencedirect.com/science/article/abs/pii/S0017931023004234
     display: International Journal of Heat and Mass Transfer 211 (20230901) 124271
+  highlight: 1
+
+- title: "Stochastic determination of thermal reaction rate coefficients for air plasmas"
+  image: Arrhenius_scheme.png
+  description: When everything is affected by uncertainties (e.g. observations, model predictions and model selection) how do we compare models among each other on the basis of the same experimental observations, particularly when they have di↵erent complexities? If different models are to be entertained and cannot be discarded, how can we incorporate the uncertainty these different choices bring to our predictions? We devised Bayesian Model Averaging frameworks to answer these questions and provide a suitable way for the hypersonics community to do so. This is the first time that robust evidence-based technniques are used to assess models with data, informing future research directions.
+  authors: A. del Val and O. Chazot
+  link:
+    url: https://pubs.aip.org/aip/jcp/article-abstract/159/6/064105/2906528/Stochastic-determination-of-thermal-reaction-rate?redirectedFrom=fulltext
+    display: J. Chem. Phys. 159, 064105 (2023)
   highlight: 1
