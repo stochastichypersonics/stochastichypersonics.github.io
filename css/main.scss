@@ -110,8 +110,14 @@ firstp {
 }
 
 .navbar.navbar-default {
-    background-color: #800000; /* Change this to the color you want */
+    background-color: #7a0019; /* Change this to the color you want */
     border: none; /* Remove any border if present */
     /* Additional styles can be added as needed */
+}
+
+/* Change the color of the text in the navbar */
+.navbar.navbar-default .navbar-brand,
+.navbar.navbar-default .nav.navbar-nav li a {
+    color: #ffcc33; /* Text color for the header */
 }
 
