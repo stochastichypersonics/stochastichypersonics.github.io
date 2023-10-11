@@ -14,7 +14,7 @@
   link:
     url: https://www.sciencedirect.com/science/article/abs/pii/S0301010422000830
     display: Chemical Physics 559, 111528  (2022)
-  highlight: 0
+  highlight: 1
 
 - title: "Stochastic calibration of a carbon nitridation model from plasma wind tunnel experiments using a Bayesian formulation."
   image: BSCCOgap.png
