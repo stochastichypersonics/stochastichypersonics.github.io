@@ -1,3 +1,15 @@
+- title: "Enthalpy rebuilding under uncertainty for Inductively Coupled Plasma facilities by means of Bayesian techniques (in preparation)"
+  image: chemistry.png
+  description: Can we learn anything from intrusive measurements in a plasma wind tunnel about gas-phase chemical reactions? The objective of this work is to understand what chemical reactions we can accurately model from measurements taken in the boundary layer and surface of probes inmersed in a plasma flow. This work entails novel methodological approaches to deal with the high dimensional, highly non-linear inverse problem, as well as understanding of the experimental capabilities to be able to provide an experimental roadmap to improve chemical model determination in the future.
+  authors: E. Anfuso, V. Romano, A. Fagnani, A. del Val and O. Chazot
+  highlight: 0
+
+- title: "Bayesian calibration of a finite-rate nitridation model from molecular beam and plasma wind tunnel experiments (in preparation)"
+  image: chemistry.png
+  description: Can we learn anything from intrusive measurements in a plasma wind tunnel about gas-phase chemical reactions? The objective of this work is to understand what chemical reactions we can accurately model from measurements taken in the boundary layer and surface of probes inmersed in a plasma flow. This work entails novel methodological approaches to deal with the high dimensional, highly non-linear inverse problem, as well as understanding of the experimental capabilities to be able to provide an experimental roadmap to improve chemical model determination in the future.
+  authors: M. Capriati, A. del Val, T.E. Schwartzentruber, T.K. Minton, P. M. Congedo and T. E. Magin
+  highlight: 0
+
 - title: "A surrogate-based optimal likelihood function for the Bayesian calibration of catalytic recombination in atmospheric entry protection materials"
   image: likelihood.png
   description: The determination of the catalytic properties of thermal protection materials is a complex task subjected to experimental and model uncertainties. We have developed a stochastic methodology that allows us to say, for the first time, that the catalytic parameters can be effectively learned from plasma wind tunnel data.
