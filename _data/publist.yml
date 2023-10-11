@@ -67,7 +67,7 @@
 - title: "Uncertainty Treatment Applications: High-Enthalpy Flow Ground Testing"
   image: chemistry.png
   description: Can we learn anything from intrusive measurements in a plasma wind tunnel about gas-phase chemical reactions? The objective of this work is to understand what chemical reactions we can accurately model from measurements taken in the boundary layer and surface of probes inmersed in a plasma flow. This work entails novel methodological approaches to deal with the high dimensional, highly non-linear inverse problem, as well as understanding of the experimental capabilities to be able to provide an experimental roadmap to improve chemical model determination in the future.
-  authors: A. del Val, O. P. Le Maître, O. Chazot, P. M. Congedo and T. E. Magin
+  authors: A. del Val, O. Chazot and T. E. Magin
   link:
     url: https://link.springer.com/chapter/10.1007/978-3-030-60166-9_16
     display: In Optimization Under Uncertainty with Applications to Aerospace Engineering, Ed. M. Vasile, Springer Nature 2020
