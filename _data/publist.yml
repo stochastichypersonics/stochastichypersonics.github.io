@@ -10,31 +10,13 @@
   authors: M. Capriati, A. del Val, T.E. Schwartzentruber, T.K. Minton, P. M. Congedo and T. E. Magin
   highlight: 0
 
-- title: "A surrogate-based optimal likelihood function for the Bayesian calibration of catalytic recombination in atmospheric entry protection materials"
-  image: likelihood.png
-  description: The determination of the catalytic properties of thermal protection materials is a complex task subjected to experimental and model uncertainties. We have developed a stochastic methodology that allows us to say, for the first time, that the catalytic parameters can be effectively learned from plasma wind tunnel data.
-  authors: A. del Val, O. P. Le Maître, O. Chazot, T. E. Magin and P. M. Congedo
+- title: "Stochastic determination of thermal reaction rate coefficients for air plasmas"
+  image: chemistry_2.png
+  description: Can we learn anything from intrusive measurements in a plasma wind tunnel about gas-phase chemical reactions? The objective of this work is to understand what chemical reactions we can accurately model from measurements taken in the boundary layer and surface of probes inmersed in a plasma flow. This work entails novel methodological approaches to deal with the high dimensional, highly non-linear inverse problem, as well as understanding of the experimental capabilities to be able to provide an experimental roadmap to improve chemical model determination in the future.
+  authors: A. del Val and O. Chazot
   link:
-    url: https://www.sciencedirect.com/science/article/abs/pii/S0307904X21003425 
-    display: Applied Mathematical Modelling 101, 791-810 (2022) 
-  highlight: 1
-
-- title: "Experimental methodology for the accurate stochastic calibration of catalytic recombination affecting reusable spacecraft TPS"
-  image: MTAt4.png
-  description: Can we improve our catalytic parameters estimation by acting on our experimental methodologies? In this work, we use stochastic techniques to propose an experimental methodology that can yield much more accurate estimation of our parameters of interest governing heterogeneous gas-surface interactions relevant to hypersonics. The methodology is also tested and a set of plasma wind tunnel tests are performed to validate our approach.
-  authors: A. del Val, D. Luís and O. Chazot
-  link:
-    url: https://www.sciencedirect.com/science/article/abs/pii/S0301010422000830
-    display: Chemical Physics 559, 111528  (2022)
-  highlight: 1
-
-- title: "Stochastic calibration of a carbon nitridation model from plasma wind tunnel experiments using a Bayesian formulation"
-  image: Gnit_locations_3000.png
-  description: The literature for nitridation models shows great scattering and sensitivity to particular ad-hoc techniques adopted by the different groups. No account of uncertainties or confidence in the derived models is found. We propose a Bayesian formulation to calibrate nitrogen ablation models for carbon preforms using different measurements of the same flowfield jointly, which has not been attempted before. The benefits are twofold; we gauge the different levels of information that measurements of recession rates and ablation products densities bring as well as cross-validate experimental data to rule out bad measurements which otherwise we have no other way of identifying, affecting heavily our results.
-  authors: A. del Val, O. P. Le Maître, P. M. Congedo and T. E. Magin.
-  link:
-    url: https://www.sciencedirect.com/science/article/abs/pii/S0008622322006030
-    display: Carbon 200 (2022) 199–214
+    url: https://pubs.aip.org/aip/jcp/article-abstract/159/6/064105/2906528/Stochastic-determination-of-thermal-reaction-rate?redirectedFrom=fulltext
+    display: J. Chem. Phys. 159, 064105 (2023)
   highlight: 1
 
 - title: "Quantification of model-form uncertainties affecting the calibration of a carbon nitridation model by means of Bayesian Model Averaging"
@@ -46,13 +28,31 @@
     display: International Journal of Heat and Mass Transfer 211 (20230901) 124271
   highlight: 1
 
-- title: "Stochastic determination of thermal reaction rate coefficients for air plasmas"
-  image: chemistry_2.png
-  description: Can we learn anything from intrusive measurements in a plasma wind tunnel about gas-phase chemical reactions? The objective of this work is to understand what chemical reactions we can accurately model from measurements taken in the boundary layer and surface of probes inmersed in a plasma flow. This work entails novel methodological approaches to deal with the high dimensional, highly non-linear inverse problem, as well as understanding of the experimental capabilities to be able to provide an experimental roadmap to improve chemical model determination in the future.
-  authors: A. del Val and O. Chazot
+- title: "Stochastic calibration of a carbon nitridation model from plasma wind tunnel experiments using a Bayesian formulation"
+  image: Gnit_locations_3000.png
+  description: The literature for nitridation models shows great scattering and sensitivity to particular ad-hoc techniques adopted by the different groups. No account of uncertainties or confidence in the derived models is found. We propose a Bayesian formulation to calibrate nitrogen ablation models for carbon preforms using different measurements of the same flowfield jointly, which has not been attempted before. The benefits are twofold; we gauge the different levels of information that measurements of recession rates and ablation products densities bring as well as cross-validate experimental data to rule out bad measurements which otherwise we have no other way of identifying, affecting heavily our results.
+  authors: A. del Val, O. P. Le Maître, P. M. Congedo and T. E. Magin.
   link:
-    url: https://pubs.aip.org/aip/jcp/article-abstract/159/6/064105/2906528/Stochastic-determination-of-thermal-reaction-rate?redirectedFrom=fulltext
-    display: J. Chem. Phys. 159, 064105 (2023)
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0008622322006030
+    display: Carbon 200 (2022) 199–214
+  highlight: 1
+
+- title: "Experimental methodology for the accurate stochastic calibration of catalytic recombination affecting reusable spacecraft TPS"
+  image: MTAt4.png
+  description: Can we improve our catalytic parameters estimation by acting on our experimental methodologies? In this work, we use stochastic techniques to propose an experimental methodology that can yield much more accurate estimation of our parameters of interest governing heterogeneous gas-surface interactions relevant to hypersonics. The methodology is also tested and a set of plasma wind tunnel tests are performed to validate our approach.
+  authors: A. del Val, D. Luís and O. Chazot
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0301010422000830
+    display: Chemical Physics 559, 111528  (2022)
+  highlight: 1
+
+- title: "A surrogate-based optimal likelihood function for the Bayesian calibration of catalytic recombination in atmospheric entry protection materials"
+  image: likelihood.png
+  description: The determination of the catalytic properties of thermal protection materials is a complex task subjected to experimental and model uncertainties. We have developed a stochastic methodology that allows us to say, for the first time, that the catalytic parameters can be effectively learned from plasma wind tunnel data.
+  authors: A. del Val, O. P. Le Maître, O. Chazot, T. E. Magin and P. M. Congedo
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0307904X21003425 
+    display: Applied Mathematical Modelling 101, 791-810 (2022) 
   highlight: 1
 
 - title: "Inference methods for gas/surface interaction models: from deterministic approaches to Bayesian techniques"
