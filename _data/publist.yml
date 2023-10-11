@@ -9,7 +9,7 @@
 
 - title: "Experimental methodology for the accurate stochastic calibra- tion of catalytic recombination affecting reusable spacecraft TPS"
   image: MTAt4.png
-  description: Can we improve our catalytic parameters estimation by acting on our experimental methodologies? In this work, we find
+  description: Can we improve our catalytic parameters estimation by acting on our experimental methodologies? In this work, we use stochastic techniques to propose an experimental methodology that can yield much more accurate estimation of our parameters of interest governing heterogeneous gas-surface interactions relevant to hypersonics. The methodology is also tested and a set of plasma wind tunnel tests are performed to validate our approach.
   authors: A. del Val, D. Luís and O. Chazot
   link:
     url: https://www.sciencedirect.com/science/article/abs/pii/S0301010422000830
