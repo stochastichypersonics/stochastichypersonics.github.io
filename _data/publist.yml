@@ -1,19 +1,19 @@
 - title: "A surrogate-based optimal likelihood function for the Bayesian calibration of catalytic recombination in atmospheric entry protection materials"
   image: likelihood.png
-  description: The determination of the catalytic properties of thermal protection materials is a complex task subjected to experimental and model uncertainties. For the first time, it is possible to say that the catalytic parameters can be effectively learned from the experimental conditions and under the considered model assumptions.
+  description: The determination of the catalytic properties of thermal protection materials is a complex task subjected to experimental and model uncertainties. We have developed a stochastic methodology that allows us to say, for the first time, that the catalytic parameters can be effectively learned from plasma wind tunnel data.
   authors: A. del Val, O. P. Le Maître, O. Chazot, T. E. Magin and P. M. Congedo
   link:
     url: https://www.sciencedirect.com/science/article/abs/pii/S0307904X21003425 
     display: Applied Mathematical Modelling 101, 791-810 (2022) 
   highlight: 1
 
-- title: "Why shot noise does not generally detect pairing in mesoscopic superconducting tunnel junctions"
-  image: imageaward_edited.png
-  description: Shot noise has been suggested for a long time as a tell-tale probe for Majorana bound states. We are the first to carry out local tunneling shot noise measurements on the putative vortex Majorana states.
-  authors: JJiasen Niu, Koen M. Bastiaans, Jianfeng Ge, Ruchi Tomar, John Jesudasan, Pratap Raychaudhuri, Max Karrer, Reinhold Kleiner, Dieter Koelle, Arnaud Barbier, Eduard F.C. Driessen, Yaroslav M. Blanter, Milan P. Allan
+- title: "Experimental methodology for the accurate stochastic calibra- tion of catalytic recombination affecting reusable spacecraft TPS"
+  image: MTAt4.png
+  description: Can we improve our catalytic parameters estimation by acting on our experimental methodologies? In this work, we find
+  authors: A. del Val, D. Luís and O. Chazot
   link:
-    url: https://arxiv.org/abs/2306.02397
-    display: arXiv
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0301010422000830
+    display: Chemical Physics 559, 111528  (2022)
   highlight: 0
 
 - title: "Puddle formation, persistent gaps, and non-mean-field breakdown of superconductivity in overdoped (Pb,Bi)2Sr2CuO6+δ"
