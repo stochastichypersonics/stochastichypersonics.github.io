@@ -18,6 +18,7 @@ You will have the chance to work on the grand challenges of hypersonic flight, o
 
 You can find the current job openings here:
 [Postdoc opening]({{ site.baseurl }}/downloads/postdoc_UMN_delVal.pdf).
+[Graduate student openings]({{ site.baseurl }}/downloads/pos.pdf).
 
 <!-- ### Applications for PhD and Postdoc positions
 If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
