@@ -17,7 +17,7 @@ You will have the chance to work on the grand challenges of hypersonic flight, o
 ### Open positions
 
 You can find the current job openings here:
-[Postdoc opening]({{ site.baseurl }}/downloads/postdoc_UMN_delVal.pdf).
+[Postdoc opening]({{ site.baseurl }}/downloads/postdoc_UMN_delVal.pdf),
 [Graduate student openings]({{ site.baseurl }}/downloads/pos.pdf).
 
 <!-- ### Applications for PhD and Postdoc positions
