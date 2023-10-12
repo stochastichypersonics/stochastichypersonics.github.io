@@ -11,7 +11,7 @@ Our research successfully blends stochastic methods within hypersonic flow resea
 Practically speaking, our research is focused on the development and application of stochastic methods belonging to the broad areas of sensitivity analysis, surrogate modeling, forward uncertainty propagation, Bayesian inverse problems, optimization under uncertainty, and data-driven approaches, all of them applied to a broad range of problems in hypersonics. We are interested in investigating how to rigorously consolidate, guide and improve the development of models and experiments for high-temperature gas-surface interaction, gas-phase chemical kinetics, boundary layer transition, aerodynamic performance, and shock layer radiation.
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/overview_research.jpeg" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/overview_research.png" width="95%">
 </figure>
 
 We are very much looking forward to being part of the [Department of Aerospace Engineering and Mechanics](https://cse.umn.edu/aem) at the University of Minnesota  starting next September.
