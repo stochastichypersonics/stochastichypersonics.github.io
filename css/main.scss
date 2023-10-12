@@ -129,17 +129,18 @@ firstp {
 /* Style the logo/image */
 .header-logo {
     max-height: 150%; /* Adjust the height as needed */
-    margin-right: 10px; /* Add margin between the image and the title */
-}
-
-/* Style the navbar text */
-.navbar-brand {
-    // font-size: 16px; /* Change the font size as needed */
-	// margin-right: 20px; /* Adjust the margin as needed */
+	margin-right: 10px; /* Add margin between the image and the title */
 	position: absolute;
     left: 10;
     top: 0;
 }
+
+/* Style the navbar text */
+// .navbar-brand {
+// 	position: absolute;
+//     left: 10;
+//     top: 0;
+// }
 
 // /* Style the navigation links */
 // .navbar-nav li a {
