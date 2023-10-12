@@ -116,6 +116,10 @@ firstp {
     /* Additional styles can be added as needed */
 }
 
+.navbar.navbar-default .navbar-header {
+    margin: 0; /* Adjust the margin as needed */
+}
+
 /* Change the color of the text in the navbar */
 .navbar.navbar-default .navbar-brand,
 .navbar.navbar-default .nav.navbar-nav li a {
