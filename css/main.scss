@@ -117,7 +117,7 @@ firstp {
 }
 
 .navbar.navbar-default .navbar-header {
-    margin: 0; /* Adjust the margin as needed */
+    margin: 0 !important; /* Adjust the margin as needed */
 }
 
 /* Change the color of the text in the navbar */
@@ -128,7 +128,7 @@ firstp {
 
 /* Style the logo/image */
 .header-logo {
-    max-height: 90%; /* Adjust the height as needed */
+    max-height: 110%; /* Adjust the height as needed */
     margin-right: 10px; /* Add margin between the image and the title */
 }
 
