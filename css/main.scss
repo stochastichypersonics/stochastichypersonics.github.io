@@ -130,11 +130,18 @@ firstp {
 
 /* Style the logo/image */
 .header-logo {
-    max-height: 80%; /* Adjust the height as needed */
+	max-height: 80%; /* Adjust the height as needed */
+	display: inline-block;
 	// margin-right: 10px; /* Add margin between the image and the title */
 	// position: absolute !important;
     // left: 10;
     // top: 0;
+}
+
+/* Style the header text */
+.header-text {
+    // font-size: 24px; /* Set the font size for the text */
+    display: inline-block;
 }
 
 /* Style the navbar text */
