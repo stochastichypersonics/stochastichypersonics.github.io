@@ -29,7 +29,7 @@ Below you can find a list of the ongoing and past research. **Come join our team
 Hypersonic flow modeling and experiments are complex. While models require of very different constitutive laws for the accurate simulation of both in-flight and on-ground conditions, experiments cannot measure explicitly all that would be desired for reliable validation. Complex modeling choices together with complex experimental set-ups render the use of off-the-shelves stochastic methods not adequate for hypersonic problems. Our group works on developing stochastic models tailored to hypersonics to produce reliable uncertainty estimations, model calibrations and validations.
 </div>
 
-<div class="column" markdown="1" style="margin-bottom: 20px;">
+<div class="column" markdown="1" style="margin-bottom: 40px;">
 ![Image]({{ site.url }}{{ site.baseurl }}/images/respic/likelihood.png){:width="60%"}
 </div>
 
@@ -40,7 +40,7 @@ Hypersonic flow modeling and experiments are complex. While models require of ve
 Characterizing ablation and catalysis phenomena for different atmospheric and material compositions is quite challenging. It is important to understand the coupling mechanisms between material surface properties and the resulting ablation and/or recombination rates which in turn are coupled to flowfield computations. In the present study, we explore the possibility of exploiting different sources of experimental data for the purpose of statistically inferring both phenomenological and kinetic models for nitridation reaction efficiencies. It is the first time in the literature that experimental data from two very different facilities (and continents!) are used jointly to learn surface chemistry models for nitrogen ablation. 
 </div>
 
-<div class="column" markdown="1" style="margin-bottom: 20px;">
+<div class="column" markdown="1" style="margin-bottom: 40px;">
 ![Image]({{ site.url }}{{ site.baseurl }}/images/respic/cleaner_GSI_pic.png){:width="100%"}
 </div>
 
@@ -62,7 +62,7 @@ In this work, we use intrusive measurements in a plasma wind tunnel to learn abo
 <!-- In this work, we answer the question: "can we learn anything from intrusive measurements in a plasma wind tunnel about gas-phase chemical reactions?" This question has long been dominated in the hypersonics community by almost exclusively looking at shock tube experiments, and the study of radiative signatures of selected excited species in the post-shock region created in such facilities. Forward rate of reactions can very effectively be obtained through the use of those data. Boundary layer modeling requires accurate modeling of backward (e.g. recombination) rates which are generally derived by assuming the principle of detailed balance to be true, possibly giving a biased view on recombination kinetics from shock tube data. In this work, we flip the switch and use experimental data sensitive to boundary layer quantities to obtain calibrated forward rates that, while still relying on the same principle of detailed balance, produce a consistent estimation of backward rates as they are now the drivers of the inference performed with this new set of experimental data. Apart from that, we are also able to prescribe interesting follow-up works that can help in obtaining a rigorous validation of gas-phase chemical models in hypersonic flows. -->
 </div>
 
-<div class="column" markdown="1" style="margin-bottom: 50px;">
+<div class="column" markdown="1" style="margin-bottom: 70px;">
 ![Image]({{ site.url }}{{ site.baseurl }}/images/respic/highlight_image.png){:width="80%"}
 </div>
 
@@ -72,7 +72,7 @@ In this work, we use intrusive measurements in a plasma wind tunnel to learn abo
 Currently, the characterization of free-stream conditions in different hypersonic facilities remains very poor. Direct measurements are significantly affected by uncertaintes that are not characterized, and indirect measurements have to consider a large number of unknowns to produce an estimation. The reliable characterization of free-stream conditions in on-ground facilities remains a challenge and represents one of the biggest roadblocks for validation tasks in hypersonic flows. In our group, we have started tackling this problem in plasma wind tunnels. The first effort was focused on building a low-dimensional stochastic framework. A later work included uncertainties stemming from chemical models, measured boundary conditions and surface response of intrusive probes when the free-stream is to be determined from indirect measurements. Our latest effort focused on introducing and characterizing additional uncertainties stemming from the plasma wind tunnel torch through the use of Gaussian Processes and coupling of different computational solvers.
 </div>
 
-<div class="column" markdown="1" style="margin-bottom: 120px; text-align: center;">
+<div class="column" markdown="1" style="margin-bottom: 140px; text-align: center;">
 ![Image]({{ site.url }}{{ site.baseurl }}/images/respic/freestream_plots.png){:width="100%"}
 </div>
 
@@ -82,7 +82,7 @@ Currently, the characterization of free-stream conditions in different hypersoni
 Calibration and validation of physico-chemical models require of specifically designed experimental data which are rarely considered in themselves. Generally, legacy experimental data or new experimental campaigns targetting a broad spectrum of conditions (generally for more than one purpose) are used for model determination and validation. This approach is problematic as many of the experiments carried out don’t bring any useful information to our models. Furthermore, experimental design is considered only through the lens of a few parameters that are thought to impact the most the outcomes of the measurements and relevant testing environments. This common approach severely impacts how resources are distributed when planning an experimental campaign, and how much information we can retrieve from such experiments. With the advent of high-dimensional stochastic modeling of recent years, we are in a position to break in new ground and challenge the paradigm by which we design our experiments. This would lead to a better understanding of the physics in high-speed flows and better utilization of resources to substantially improve the confidence we have in our in-flight predictions.
 </div>
 
-<div class="column" markdown="1" style="margin-bottom: 100px;">
+<div class="column" markdown="1" style="margin-bottom: 120px;">
 ![Image]({{ site.url }}{{ site.baseurl }}/images/respic/flight_extrap.png){:width="60%"}
 </div>
 
