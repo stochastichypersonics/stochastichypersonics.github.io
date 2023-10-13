@@ -146,7 +146,7 @@ firstp {
 
 /* Style the navbar text */
 .navbar-brand {
-	position: absolute;
+	position: absolute !important;
     left: 10;
     top: 0;
 }
