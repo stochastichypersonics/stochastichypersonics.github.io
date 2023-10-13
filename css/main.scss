@@ -153,6 +153,12 @@ firstp {
     display: inline-block;
 }
 
+.navbar-brand img {
+    padding-top: 5px; /* Adjust as needed */
+    padding-bottom: 5px; /* Adjust as needed */
+    margin-bottom: 0; /* Remove any margin */
+  }
+
 /* Style the navbar text */
 // .navbar-brand {
 // 	position: absolute !important;
