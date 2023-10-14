@@ -10,7 +10,7 @@ permalink: /vacancies
 
 **We are currently open for graduate students and postdoc applications**
 
-We are  looking for new group members with passion, talent, and grit!
+<!-- We are  looking for new group members with passion, talent, and grit! -->
 
 You will have the chance to work on the grand challenges of hypersonic flight, often at the interface of applied mathematics and fluid dynamics. You will be involved in developing computational tools and methods, generating new ideas, and substantially contributing to the field of hypersonic flight research.
 
