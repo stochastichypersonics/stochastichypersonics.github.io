@@ -121,7 +121,7 @@ Currently, the characterization of free-stream conditions in different hypersoni
 
 <div class="content-box">
   <span style="font-size: larger;"><strong>Design of experiments for relevant hypersonic conditions.</strong></span> 
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/flight_extrap.png" style="width: 35%; float: right; margin: 0px 10px" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/flight_extrap.png" style="width: 45%; float: right; margin: 0px 10px" />
   <p>Calibration and validation of physico-chemical models require of specifically designed experimental data which are rarely considered in themselves. Generally, legacy experimental data or new experimental campaigns targetting a broad spectrum of conditions (generally for more than one purpose) are used for model determination and validation. This approach is problematic as many of the experiments carried out don’t bring any useful information to our models. Furthermore, experimental design is considered only through the lens of a few parameters that are thought to impact the most the outcomes of the measurements and relevant testing environments. This common approach severely impacts how resources are distributed when planning an experimental campaign, and how much information we can retrieve from such experiments. With the advent of high-dimensional stochastic modeling of recent years, we are in a position to break in new ground and challenge the paradigm by which we design our experiments. This would lead to a better understanding of the physics in high-speed flows and better utilization of resources to substantially improve the confidence we have in our in-flight predictions.</p>
 </div>
 
