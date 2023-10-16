@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-Our research successfully blends stochastic methods within hypersonic flow research to advance the state-of-the-art models, simulations and experiments. The work carried out at the Stochastic Hypersonics Lab is truly interdisciplinary at the interface of applied mathematics and Aerospace engineering. The main objective of the lab is to advance our understanding of hypersonic flows, and this can only be done by including uncertainty as a modeled component both in our computational tools and experimental methods.
+We are a research group Our research successfully blends stochastic methods within hypersonic flow research to advance the state-of-the-art models, simulations and experiments. The work carried out at the Stochastic Hypersonics Lab is truly interdisciplinary at the interface of applied mathematics and Aerospace engineering. The main objective of the lab is to advance our understanding of hypersonic flows, and this can only be done by including uncertainty as a modeled component both in our computational tools and experimental methods.
 
 Practically speaking, our research is focused on the development and application of stochastic methods belonging to the broad areas of sensitivity analysis, surrogate modeling, forward uncertainty propagation, Bayesian inverse problems, optimization under uncertainty, and data-driven approaches, all of them applied to a broad range of problems in hypersonics. We are interested in investigating how to rigorously consolidate, guide and improve the development of models and experiments for high-temperature gas-surface interaction, gas-phase chemical kinetics, boundary layer transition, aerodynamic performance, and shock layer radiation.
 
