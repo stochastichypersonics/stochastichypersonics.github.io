@@ -26,7 +26,6 @@ Below you can find a list of the ongoing and past research. **Come join our team
 <!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/SmartTip.png){: style="width: 250px; float: left; margin: 0px 10px"} -->
 
 <span style="font-size: larger; margin-bottom: 40px;"><strong>Stochastic modeling. </strong></span>![]({{ site.url }}{{ site.baseurl }}/images/respic/likelihood.png){: style="width: 25%; float: right; margin: 0px 10px"} Hypersonic flow modeling and experiments are complex. While models require of very different constitutive laws for the accurate simulation of both in-flight and on-ground conditions, experiments cannot measure explicitly all that would be desired for reliable validation. Complex modeling choices together with complex experimental set-ups render the use of off-the-shelves stochastic methods not adequate for hypersonic problems. Our group works on developing stochastic models tailored to hypersonics to produce reliable uncertainty estimations, model calibrations and validations.
----
 
 <div style="clear: both; margin-bottom: 20px;"></div>
 
@@ -40,8 +39,7 @@ Hypersonic flow modeling and experiments are complex. While models require of ve
 </div> -->
 
 
-<span style="font-size: larger;"><strong>High-temperature gas-surface interactions.</strong></span> ![]({{ site.url }}{{ site.baseurl }}/images/respic/cleaner_GSI_pic.png){: style="width: 50%; float: left; margin: 0px 10px"} Characterizing ablation and catalysis phenomena for different atmospheric and material compositions is quite challenging. It is important to understand the coupling mechanisms between material surface properties and the resulting ablation and/or recombination rates which in turn are coupled to flowfield computations. In the present study, we explore the possibility of exploiting different sources of experimental data for the purpose of statistically inferring both phenomenological and kinetic models for nitridation reaction efficiencies. It is the first time in the literature that experimental data from two very different facilities (and continents!) are used jointly to learn surface chemistry models for nitrogen ablation. 
----
+<span style="font-size: larger;"><strong>High-temperature gas-surface interactions.</strong></span> ![]({{ site.url }}{{ site.baseurl }}/images/respic/cleaner_GSI_pic.png){: class="img-responsive"; style="width: 50%; float: left; margin: 0px 10px"} Characterizing ablation and catalysis phenomena for different atmospheric and material compositions is quite challenging. It is important to understand the coupling mechanisms between material surface properties and the resulting ablation and/or recombination rates which in turn are coupled to flowfield computations. In the present study, we explore the possibility of exploiting different sources of experimental data for the purpose of statistically inferring both phenomenological and kinetic models for nitridation reaction efficiencies. It is the first time in the literature that experimental data from two very different facilities (and continents!) are used jointly to learn surface chemistry models for nitrogen ablation. 
 
 <div style="clear: both; margin-bottom: 20px;"></div>
 
