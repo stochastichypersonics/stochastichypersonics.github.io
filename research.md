@@ -37,16 +37,16 @@ Hypersonic flow modeling and experiments are complex. While models require of ve
 </div> -->
 
 
-<span style="font-size: larger;"><strong>High-temperature gas-surface interactions</strong></span>
+<span style="font-size: larger;"><strong>High-temperature gas-surface interactions.</strong></span> ![]({{ site.url }}{{ site.baseurl }}/images/respic/likelihood.png){: style="width: 30%; float: left; margin: 0px 10px"} Characterizing ablation and catalysis phenomena for different atmospheric and material compositions is quite challenging. It is important to understand the coupling mechanisms between material surface properties and the resulting ablation and/or recombination rates which in turn are coupled to flowfield computations. In the present study, we explore the possibility of exploiting different sources of experimental data for the purpose of statistically inferring both phenomenological and kinetic models for nitridation reaction efficiencies. It is the first time in the literature that experimental data from two very different facilities (and continents!) are used jointly to learn surface chemistry models for nitrogen ablation. 
 
-<div class="column" markdown="1" style="text-align: justify;">
+<!-- <div class="column" markdown="1" style="text-align: justify;">
 Characterizing ablation and catalysis phenomena for different atmospheric and material compositions is quite challenging. It is important to understand the coupling mechanisms between material surface properties and the resulting ablation and/or recombination rates which in turn are coupled to flowfield computations. In the present study, we explore the possibility of exploiting different sources of experimental data for the purpose of statistically inferring both phenomenological and kinetic models for nitridation reaction efficiencies. It is the first time in the literature that experimental data from two very different facilities (and continents!) are used jointly to learn surface chemistry models for nitrogen ablation. 
-</div>
+</div> -->
 
 <!-- <div class="column" markdown="1" style="margin-bottom: 40px;"> -->
-<div class="column" markdown="1" style="margin-bottom: 10%;">
+<!-- <div class="column" markdown="1" style="margin-bottom: 10%;">
 ![Image]({{ site.url }}{{ site.baseurl }}/images/respic/cleaner_GSI_pic.png){:width="100%"}
-</div>
+</div> -->
 
 <span style="font-size: larger;"><strong>Gas-phase chemical kinetics</strong></span>
 
