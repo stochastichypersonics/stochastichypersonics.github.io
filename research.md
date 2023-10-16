@@ -136,7 +136,7 @@ Calibration and validation of physico-chemical models require of specifically de
 
 <div class="content-box">
   <span style="font-size: larger;"><strong>Hypersonic boundary layer transition.</strong></span> 
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/transition.png" style="width: 40%; float: left; margin: 0px 10px" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/transition.png" style="width: 45%; float: left; margin: 0px 10px" />
   <p>Hypersonic transition is a multiphysics phenomenon that impacts wall heat transfer and skin friction, increasing the drag of the vehicle. Its prediction is a challenging problem dominated by intrinsic uncertainty due to its multiphysics nature. Uncertainty in transition location leads to diminishing vehicle performance. High-temperature effects, body geometry and surface roughness, and overall environment are the general factors that have a great impact on where transition will occur. The current research project is broadly focused on developing a stochastic framework that allows us to improve our understanding of transition predictions in hypersonic boundary layers. The ultimate goal is to understand how (and which) wind tunnel tests can inform and improve in-flight probabilistic transition predictions.</p>
 </div>
 
