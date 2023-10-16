@@ -73,7 +73,7 @@ Currently, the characterization of free-stream conditions in different hypersoni
 </div>
 
 <!-- <div class="column" markdown="1" style="margin-bottom: 140px; text-align: center;"> -->
-<div class="column" markdown="1" style="margin-bottom: 10%; text-align: center;">
+<div class="column" markdown="1" style="margin-bottom: 20%; text-align: center;">
 ![Image]({{ site.url }}{{ site.baseurl }}/images/respic/freestream_plots.png){:width="100%"}
 </div>
 
