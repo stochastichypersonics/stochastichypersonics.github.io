@@ -131,6 +131,15 @@ firstp {
     color: #ffcc33 !important; /* Text color for the header */
 }
 
+.content-box {
+	border: 1px solid #ccc; /* Add a border */
+	padding: 20px; /* Add padding inside the box */
+	margin: 10px; /* Add margin around the box */
+	background-color: #f9f9f9; /* Set a background color */
+	box-shadow: 0px 0px 5px #888; /* Add a shadow effect */
+  }
+  
+
 /* Style the logo/image */
 // .header-logo {
 // 	max-height: 30%; /* Adjust the height as needed */
