@@ -14,7 +14,7 @@ permalink: /research/
 
 *The greatest enemy of knowledge is not ignorance; it is the illusion of knowledge.* - Stephen Hawking
 
-Our research uses stochastic methods as the basis for advancing our understanding of hypersonic flows. We are interested in developing stochastic modeling techniques to be applied to a broad range of hypersonic flow problems such as gas-phase chemistry, gas-surface interactions, shock layer radiation, boundary layer transition, etc. Our research truly lives at the boundaries between applied mathematics and Aerospace engineering. We are particularly interested in three aspects of uncertainty modeling: 1) understanding of complex models and their high-order interactions by functional decompositions and sensitivity analyses; 2) using this information to design more informative experiments for model calibration and validation, leading to better utilization of experimental resources; 3) validation of physico-chemical and fluid dynamics models.
+Our research uses stochastic methods as the basis for advancing our understanding of hypersonic flows. We are interested in developing stochastic modeling techniques to be applied to a broad range of hypersonic flow problems such as gas-phase chemistry, gas-surface interactions, shock layer radiation, boundary layer transition, etc. We are particularly interested in three aspects of uncertainty modeling: 1) understanding of complex models and their high-order interactions by functional decompositions and sensitivity analyses; 2) using this information to design more informative experiments for model calibration and validation, leading to better utilization of experimental resources; 3) validation of physico-chemical and fluid dynamics models.
 
 
 <figure style="text-align: center;">
