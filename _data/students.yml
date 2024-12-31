@@ -16,12 +16,13 @@
   education1:
   research: Ground to flight analysis of hypersonic laminar-to-turbulent transition with stochastic methods
 
-- name: Goldy Gopher 
+- name: Graham Larson 
   photo: goldy_runningGoldy-rgb.png
-  info: This could be you!
+  # info: This could be you!
   email: 
   number_educ: 0
   education1:
+  research: Stochastic characterization of arc-jets environments
 
 - name: Goldy Gopher
   photo: goldy_runningGoldy-rgb.png
