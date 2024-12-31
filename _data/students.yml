@@ -11,7 +11,7 @@
 - name: Vincenzo Romano 
   photo: Romano.png
   info: Visiting scholar (collaborative PhD student with VKI and ULB, Belgium)
-  email: vincenzo.romano@vki.ac.be
+  # email: vincenzo.romano@vki.ac.be
   number_educ: 0
   education1:
   research: Ground to flight analysis of hypersonic laminar-to-turbulent transition with stochastic methods
@@ -19,7 +19,7 @@
 - name: Graham Larson 
   photo: goldy_runningGoldy-rgb.png
   # info: This could be you!
-  email: 
+  # email: 
   number_educ: 0
   education1:
   research: Stochastic characterization of arc-jets environments
