@@ -79,7 +79,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Postoctoral researchers
+<!-- ## Postoctoral researchers -->
 {% assign number_printed = 0 %}
 {% for member in site.data.postdocs %}
 
