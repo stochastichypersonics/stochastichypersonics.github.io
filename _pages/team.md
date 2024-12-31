@@ -55,7 +55,11 @@ permalink: /team/
   <li> {{ member.education4 }} </li>
   <li> {{ member.education5 }} </li>
   {% endif %}
-
+  {{member.position}}
+  {{member.department}}
+  {{member.office}}
+  {{member.address1}}
+  {{member.address2}}
   </ul>
 </div>
 
