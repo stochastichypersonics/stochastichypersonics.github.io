@@ -25,7 +25,7 @@
   number_educ: 0
   education1:
   number_funding: 0
-  research: Stochastic characterization of arc-jet environments
+  research: Stochastic characterization of arc-jet environments and cross-validation of ablation models
 
 # - name: Goldy Gopher
 #   photo: goldy_runningGoldy-rgb.png
