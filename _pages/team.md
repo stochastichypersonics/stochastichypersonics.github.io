@@ -182,7 +182,7 @@ permalink: /team/
 
   <li> {{ member.research }} </li>
   {% if member.number_funding == 1 %}
-  <li> {{ member.funding }} </li>
+  <i> {{ member.funding }} </i>
   {% endif %}
 
   </ul>
