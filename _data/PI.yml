@@ -1,9 +1,13 @@
 - name: Anabel del Val
   photo: IMG_0523.jpg
   position: Assistant Professor
+
   department: Aerospace Engineering and Mechanics
+
   office: 218 Akerman Hall
+
   address1: 110 Union St. SE
+  
   address 2: Minneapolis, MN 55455
   # info: >
   #   Assistant Professor
