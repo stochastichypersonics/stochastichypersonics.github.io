@@ -180,7 +180,7 @@ permalink: /team/
   <li> {{ member.education5 }} </li>
   {% endif %}
 
-  <li> {{ member.research }} </li>
+  {{ member.research }}
   {% if member.number_funding == 1 %}
   <i> {{ member.funding }} </i>
   {% endif %}
