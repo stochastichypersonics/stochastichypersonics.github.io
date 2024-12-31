@@ -181,6 +181,7 @@ permalink: /team/
   {% endif %}
 
   <li> {{ member.research }} </li>
+  <li> {{ member.funding }} </li>
 
   </ul>
 </div>
@@ -245,6 +246,7 @@ permalink: /team/
   {% endif %}
 
   <li> {{ member.research }} </li>
+  <li> {{ member.funding }} </li>
 
   </ul>
 </div>
