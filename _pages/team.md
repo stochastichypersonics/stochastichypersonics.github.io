@@ -244,6 +244,8 @@ permalink: /team/
   <li> {{ member.education5 }} </li>
   {% endif %}
 
+  <li> {{ member.research }} </li>
+
   </ul>
 </div>
 
