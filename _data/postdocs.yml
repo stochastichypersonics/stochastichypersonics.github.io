@@ -1,6 +1,6 @@
-- name: This could be you!
-  photo: goldy_runningGoldy-rgb.png
-  info: Prospective postdoc
+# - name: This could be you!
+#   photo: goldy_runningGoldy-rgb.png
+#   info: Prospective postdoc
   # email: ge@Physics.LeidenUniv.nl
   # number_educ: 3
   # education1: Postdoc with <a href="http://hoffman.physics.harvard.edu">Jenny Hoffman</a>, Harvard University
