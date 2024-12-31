@@ -57,10 +57,10 @@ permalink: /team/
   {% endif %}
 
   <i> {{ member.position }} </i>
-  <div>{{ member.department }}</div>
-  <div>{{ member.office }}</div>
-  <div>{{ member.address1 }}</div>
-  <div>{{ member.address2 }}</div>
+  <p>{{ member.department }}</p>
+  <p>{{ member.office }}</p>
+  <p>{{ member.address1 }}</p>
+  <p>{{ member.address2 }}</p>
 
   <i>{{ member.info }} <br>email: <{{ member.email }}></i>
   <!-- </ul> -->
