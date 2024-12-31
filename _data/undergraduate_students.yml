@@ -11,16 +11,16 @@
 - name: Madhurima Das 
   photo: goldy_runningGoldy-rgb.png
   # info: This could be you!
-  email: das00127@umn.edu
   number_educ: 0
   education1:
   research: Ground-to-flight extrapolation under uncertainty for high-speed vehicles
 
-- name: Goldy Gopher
-  photo: goldy_runningGoldy-rgb.png
-  info: This could be you!
+- name: Janagan Ramanathan
+  photo: Ramanathan.jpg
+  # info: This could be you!
   email: 
   number_educ: 0
   education1:
+  research: Ground-to-flight extrapolation under uncertainty for high-speed vehicles
 
 
