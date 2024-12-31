@@ -181,7 +181,9 @@ permalink: /team/
   {% endif %}
 
   <li> {{ member.research }} </li>
+  {% if member.number_funding == 1 %}
   <li> {{ member.funding }} </li>
+  {% endif %}
 
   </ul>
 </div>

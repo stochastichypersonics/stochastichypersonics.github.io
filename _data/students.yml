@@ -15,6 +15,7 @@
   number_educ: 0
   education1:
   research: Ground to flight analysis of hypersonic laminar-to-turbulent transition with stochastic methods
+  number_funding: 1
   funding: FRIA (Fonds pour la formation à la Recherche dans l'Industrie et dans l'Agriculture)
 
 - name: Graham Larson 
@@ -23,6 +24,7 @@
   # email: 
   number_educ: 0
   education1:
+  number_funding: 0
   research: Stochastic characterization of arc-jets environments
 
 # - name: Goldy Gopher
