@@ -23,12 +23,15 @@ permalink: /research/
         text-align: justify;
     }
     figure {
-        display: flex;
-        justify-content: center; /* Centers the content horizontally */
-        align-items: center; /* Centers the content vertically (optional) */
+        margin: 0 auto; /* Center the figure horizontally */
+        text-align: center; /* Center the content inside the figure */
+        display: block; /* Ensure figure is treated as a block-level element */
+        width: fit-content; /* Shrink to fit content for proper centering */
     }
     figure img {
-        max-width: 100%; /* Ensures the image is responsive */
+        display: block; /* Prevents the image from being treated as inline */
+        margin: 0 auto; /* Centers the image within the figure */
+        max-width: 100%; /* Ensures responsiveness */
     }
 </style>
 
