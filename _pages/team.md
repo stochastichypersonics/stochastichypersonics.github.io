@@ -6,14 +6,14 @@ sitemap: false
 permalink: /team/
 ---
 
-<style>
+<!-- <style>
     p {
         text-align: justify;
     }
     figure {
         text-align: center;
     }
-</style>
+</style> -->
 
 # Group Members
 
