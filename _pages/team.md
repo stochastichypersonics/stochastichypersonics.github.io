@@ -6,6 +6,15 @@ sitemap: false
 permalink: /team/
 ---
 
+<style>
+    p {
+        text-align: justify;
+    }
+    figure {
+        text-align: center;
+    }
+</style>
+
 # Group Members
 
  **We are  looking for new graduate students and a postdoc to join the team in Fall 2024** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**

@@ -6,6 +6,15 @@ sitemap: false
 permalink: /
 ---
 
+<style>
+    p {
+        text-align: justify;
+    }
+    figure {
+        text-align: center;
+    }
+</style>
+
 We are a research group in the [Department of Aerospace Engineering and Mechanics](https://cse.umn.edu/aem) at the University of Minnesota. Our research is focused on advancing our understanding of hypersonic flows by successfully applying stochastic methods to advance the state-of-the-art models, simulations and experiments. The work carried out by the Stochastic Hypersonics Research Group is truly interdisciplinary at the interface of applied mathematics and aerospace engineering. We focus on answering the question: **what can we really learn about hypersonics flows with increasingly complex models and experiments?** In particular, the role of uncertainties, and how they impact our capabilities to build predictive models and understanding of the physical phenomena involved in these flows, is still very poorly understood. Seeking the answer to this problem, our research bridges the gap between hypersonics and rigorous uncertainty modeling techniques.
 
 
