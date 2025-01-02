@@ -14,7 +14,7 @@ permalink: /research/
     }
     figure {
         display: flex;
-        justify-content: center;
+        text-align: center;
     }
 </style>
 
