@@ -18,7 +18,7 @@ Our research uses stochastic methods as the basis for advancing our understandin
 
 
 <figure style="text-align: center;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/Stoch_Hyp_group.png" width="70%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/Stoch_Hyp_group.png" width="50%">
 </figure>
 
 Below you can find a list of the ongoing and past research. **Come join our team and help us advance the fundamental understanding of hypersonic flows!**
