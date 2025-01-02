@@ -26,8 +26,8 @@ permalink: /research/
 
 Our research uses stochastic methods as the basis for advancing our understanding of hypersonic flows. We are interested in developing stochastic modeling techniques to be applied to a broad range of hypersonic flow problems such as gas-phase chemistry, gas-surface interactions, shock layer radiation, boundary layer transition, etc. We are particularly interested in three aspects of uncertainty modeling: 1) understanding of complex models and their high-order interactions by functional decompositions and sensitivity analyses; 2) using this information to design more informative experiments for model calibration and validation, leading to better utilization of experimental resources; 3) validation of physico-chemical and fluid dynamics models.
 
-
-<figure style="text-align: center;">
+<!-- <figure style="text-align: center;"> -->
+<figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Stoch_Hyp_group.png" width="50%">
 </figure>
 
