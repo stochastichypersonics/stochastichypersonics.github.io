@@ -13,7 +13,8 @@ permalink: /research/
         text-align: justify;
     }
     figure {
-        style="text-align: center;"
+        display: flex;
+        justify-content: center;
     }
 </style>
 
