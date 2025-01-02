@@ -12,6 +12,9 @@ permalink: /research/
     p {
         text-align: justify;
     }
+    figure {
+        text-align: center;
+    }
 </style>
 
 **Modeling uncertainty is one of the key challenges in hypersonics today**. Only a handful of all the produced research include uncertainty as a modeled component. New, surprising insights are being gained by trying to attain some objectivity in model calibration and validation tasks. As an interesting side note, the natural sciences (e.g. Physics, Astronomy, Astrophysics, Particle Physics, etc) have already understood this since quite some time. Actually, most of the recent notable discoveries in Science (e.g. gravitational waves, Higgs boson, etc) could claim that "something new has been discovered" only by using rigorous uncertainty and Bayesian inference analyses to show the confidence in their results. It is very interesting to see that Nobel Prize-worthy research papers are like a masterclass in Bayesian inference techniques. However, we in engineering disciplines have been running quite behind on this matter. Once our disciplines have reached a substantial level of complexity, ad-hoc techniques used to guide experiments and validate models are no longer reliable. This complexity pushes us to embrace more mathematically rigorous techniques that can unbiasedly look at our models, our experiments, and produce reliable estimates of confidence in our predictions.
