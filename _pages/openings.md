@@ -6,7 +6,7 @@ sitemap: false
 permalink: /vacancies
 ---
 
-You will have the chance to work on the grand challenges of hypersonic flight, often at the interface of applied mathematics and fluid dynamics. You will be involved in developing computational tools and methods, generating new ideas, and substantially contributing to the field of hypersonic flight research.
+**Joining the Stochastic Hypersonics Research Group will give you the chance to work on the grand challenges of hypersonic flight, often at the interface of applied mathematics and fluid dynamics. You will be involved in developing computational tools and methods, generating new ideas, and substantially contributing to the field of hypersonic flight research.**
 
 ### Prospective graduate students
 
