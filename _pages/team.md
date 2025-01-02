@@ -17,7 +17,9 @@ permalink: /team/
 
 # Group Members
 
- **We are  looking for new graduate students and a postdoc to join the team in Fall 2024** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **Come join our team and help us advance the fundamental understanding of hypersonic flows!** 
+
+<!-- **We are  looking for new graduate students and a postdoc to join the team in Fall 2024** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!** -->
 
 ## Principal Investigator
 {% assign number_printed = 0 %}
