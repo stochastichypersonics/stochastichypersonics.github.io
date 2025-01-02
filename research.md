@@ -21,7 +21,9 @@ Our research uses stochastic methods as the basis for advancing our understandin
 <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Stoch_Hyp_group.png" width="70%">
 </figure>
 
-Below you can find a list of the ongoing and past research. **Come join our team and help us advance the fundamental understanding of hypersonic flows** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
+Below you can find a list of the ongoing and past research. **Come join our team and help us advance the fundamental understanding of hypersonic flows!**
+
+<!-- Below you can find a list of the ongoing and past research. **Come join our team and help us advance the fundamental understanding of hypersonic flows** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!** -->
 
 <!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/SmartTip.png){: style="width: 250px; float: left; margin: 0px 10px"} -->
 
@@ -30,7 +32,7 @@ Below you can find a list of the ongoing and past research. **Come join our team
 <div class="content-box">
   <span style="font-size: larger;"><strong>Stochastic modeling</strong></span> 
   <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/respic/likelihood.png" style="width: 25%; float: right; margin: 0px 10px" /> -->
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/likelihood.png" style="max-width: 40%; float: right; margin: 0px 10px" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/likelihood.png" style="max-width: 35%; float: right; margin: 0px 10px" />
   <p>Hypersonic flow modeling and experiments are complex. While models require of very different constitutive laws for the accurate simulation of both in-flight and on-ground conditions, experiments cannot measure explicitly all that would be desired for reliable validation. Complex modeling choices together with complex experimental set-ups render the use of off-the-shelves stochastic methods not adequate for hypersonic problems. Our group works on developing stochastic models tailored to hypersonics to produce reliable uncertainty estimations, model calibrations and validations.</p>
   <br><br>
   
