@@ -1,24 +1,33 @@
 ---
-title: "Stochastic Hypersonics - Openings"
+title: "Stochastic Hypersonics - Prospective students"
 layout: textlay
-excerpt: "Openings"
+excerpt: "Prospective students"
 sitemap: false
 permalink: /vacancies
 ---
 
-# Open positions
+You will have the chance to work on the grand challenges of hypersonic flight, often at the interface of applied mathematics and fluid dynamics. You will be involved in developing computational tools and methods, generating new ideas, and substantially contributing to the field of hypersonic flight research.
 
-**We are currently open for graduate students and postdoc applications**
+### Prospective graduate students
+
+<!-- **We are currently open for graduate students and postdoc applications** -->
 
 <!-- We are  looking for new group members with passion, talent, and grit! -->
 
-You will have the chance to work on the grand challenges of hypersonic flight, often at the interface of applied mathematics and fluid dynamics. You will be involved in developing computational tools and methods, generating new ideas, and substantially contributing to the field of hypersonic flight research.
+If you are interested in joining the Stochastic Hypersonics Research Group, I strongly recommend that you apply to the graduate program within the AEM department and mention your research interests in your statement of purpose.  Once you have been admitted, please email Prof. del Val and provide
+a copy of your CV and a short statement of why you are interested in this group.
 
-### Open positions
+### Prospective undergraduate students
 
-You can find the current job openings here:
-[Postdoc opening]({{ site.baseurl }}/downloads/postdoc_UMN_delVal.pdf),
-[Graduate student openings]({{ site.baseurl }}/downloads/PhDstudent_positions.pdf).
+UMN undergraduate students should email Prof. del Val and provide the following information.
+
+- Introduce yourself (name, major, year).
+- A brief explanation of why you are interested in joining the Stochastic Hypersonics Group.
+- What time commitment you are interested in (Honors student, UROP, summer researcher, volunteer).
+
+### Prospective postdoctoral researchers
+
+If you are interested in joining the Stochastic Hypersonics Research Group, please email Prof. del Val and provide a copy of your CV and a short statement of why you are interested in this group.
 
 <!-- ### Applications for PhD and Postdoc positions
 If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
