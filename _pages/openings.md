@@ -14,8 +14,7 @@ You will have the chance to work on the grand challenges of hypersonic flight, o
 
 <!-- We are  looking for new group members with passion, talent, and grit! -->
 
-If you are interested in joining the Stochastic Hypersonics Research Group, I strongly recommend that you apply to the graduate program within the AEM department and mention your research interests in your statement of purpose.  Once you have been admitted, please email Prof. del Val and provide
-a copy of your CV and a short statement of why you are interested in this group.
+If you are interested in joining the Stochastic Hypersonics Research Group, I strongly recommend that you apply to the graduate program within the AEM department and mention your research interests in your statement of purpose.  Once you have filed your application, please email Prof. del Val and provide a short statement of why you are interested in this group.
 
 ### Prospective undergraduate students
 
