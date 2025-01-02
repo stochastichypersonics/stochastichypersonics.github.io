@@ -8,13 +8,27 @@ permalink: /research/
 
 # Research
 
-<style>
+<!-- <style>
     p {
         text-align: justify;
     }
     figure {
         display: flex;
         text-align: center;
+    }
+</style> -->
+
+<style>
+    p {
+        text-align: justify;
+    }
+    figure {
+        display: flex;
+        justify-content: center; /* Centers the content horizontally */
+        align-items: center; /* Centers the content vertically (optional) */
+    }
+    figure img {
+        max-width: 100%; /* Ensures the image is responsive */
     }
 </style>
 
