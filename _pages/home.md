@@ -22,7 +22,7 @@ Practically speaking, we are focused on the development and application of stoch
 
 We are very much looking forward to being part of the [Department of Aerospace Engineering and Mechanics](https://cse.umn.edu/aem) at the University of Minnesota  starting next September.
 
-**If you are a student or postdoc interested in learning about hypersonics and modern stochastic methods consider joining the team! Send an email to Prof. del Val briefly outlining your research interests and provide a CV**
+**If you are a student or postdoc interested in learning about hypersonics and modern stochastic methods consider joining the team! Send an email to Prof. del Val with your CV and briefly outline your research interests**
 
 <!-- **If you are a graduate student interested in learning about hypersonics and modern stochastic methods or if you  are a postdoc with a background on uncertainty quantification looking to expand your horizons in the world of hypersonics consider joining the team next Fall** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!** -->
 
